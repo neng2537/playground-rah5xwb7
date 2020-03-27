@@ -1,6 +1,20 @@
 # Débutter en PHP !
 
-Pour débutter la notion de variable
+##Script d'initiation à PHP
+	* 	Auteur: MERY Ludovic
+	*
+	*	Pour toi Public de SIO 1  !!!
+	*
+	*	Penser à avoir votre serveur web apache démarré qui écoute sur le port 80
+	*	Penser à avoir votre Serveur MySQL démarré qui écoute localement (127.0.0.1) sur le port 3306
+	*	Placer ce fichier dans un dossier correspondant à votre projet (mkdir debutterphp)
+	*	Placer ce dossier dans le repertoire de publication d'apache (C:\wamp\www) pour ceux qui bossent sous wamp.
+	*	Créer la base de données "debutterphp" ou avec un autre nom mais adapter votre code sous MySQL (perso j'utilise phpmyadmin mais vous pouvez faire autrement)
+	*	Créer la table "profs" (ou un autre nom mais il faudra adapter le code notamment la requete SQL)
+	*	Insérez y des données.
+	*	Tester votre code avec un navigateur en faisant http://127.0.0.1/debutterphp
+	*	La gestion des noms de domaine de type www.monsite.fr peut se faire si on maitrise DNS et la configuration de VHost sous Apache
+	*	Et oui le Systeme (SI1, SI5) ça peut servir !
 
 ```php runnable
 <?php
