@@ -1,6 +1,6 @@
 # Débutter en PHP !
 
-##Script d'initiation à PHP
+    *   Script d'initiation à PHP
 	* 	Auteur: MERY Ludovic
 	*
 	*	Pour toi Public de SIO 1  !!!
