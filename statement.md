@@ -15,6 +15,9 @@
 	*	Tester votre code avec un navigateur en faisant http://127.0.0.1/debutterphp
 	*	La gestion des noms de domaine de type www.monsite.fr peut se faire si on maitrise DNS et la configuration de VHost sous Apache
 	*	Et oui le Systeme (SI1, SI5) ça peut servir !
+	
+	
+	N'oublie pas de virer les commentaires sur les instructions importantes (qui ne peuvent être testé sur cette plateforme, et oui je n'ai pas accès à un serveur MySQL sur tech.io 
 
 ```php runnable
 <?php
