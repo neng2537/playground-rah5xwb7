@@ -17,7 +17,7 @@
 	*	Et oui le Systeme (SI1, SI5) ça peut servir !
 	
 	
-	N'oublie pas de virer les commentaires sur les instructions importantes (qui ne peuvent être testé sur cette plateforme, et oui je n'ai pas accès à un serveur MySQL sur tech.io 
+	N'oublie pas de virer les commentaires sur les instructions importantes (qui ne peuvent être testés sur cette plateforme, et oui je n'ai pas accès à un serveur MySQL sur tech.io ) !
 
 ```php runnable
 <?php
