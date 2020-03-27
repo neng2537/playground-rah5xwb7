@@ -1,6 +1,6 @@
-# Welcome!
+# Débutter en PHP !
 
-This PHP template lets you get started quickly with a simple one-page playground.
+Pour débutter la notion de variable
 
 ```php runnable
 <?php
@@ -8,6 +8,3 @@ echo "Hello World!";
 ?>
 ```
 
-# Advanced usage
-
-If you want a more complex example (external libraries, viewers...), use the [Advanced PHP template](https://tech.io/select-repo/574)
